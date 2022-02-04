@@ -8,6 +8,7 @@ Use the following command:
 ```
 pip3 install torch==1.10.2+cu113 torchvision==0.11.3+cu113 torchaudio==0.10.2+cu113 -f https://download.pytorch.org/whl/cu113/torch_stable.html
 ```
+This pytorch is for CUDA 11.3 but works for CUDA 11.5 as well.
 
 
 ## DO not install CUDA 11.6
