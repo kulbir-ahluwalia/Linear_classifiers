@@ -1,7 +1,8 @@
 # Linear_classifiers
 
 ## Installing the correct versions of CUDA, PyTorch 
-For Dell G15 + RTX 3060 GPU, a driver version of ```Driver Version: 495.29.05``` & ```CUDA Version: 11.5 ``` works with Pytorch 1.10.2.
+For Dell G15 + RTX 3060 GPU, a driver version of ```Driver Version: 495.29.05``` & ```CUDA Version: 11.5 ``` works with Pytorch 1.10.2.    
+    
 For a local installation of PyTorch, use Stable 1.10.2 with Linux, Pip, Python, CUDA11.3 chosen at https://pytorch.org/get-started/locally/ 
 Use the following command:
 ```
