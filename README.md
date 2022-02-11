@@ -29,3 +29,4 @@ Surprisngly, Pytorch 1.10.2 works with CUDA version 11.6 as well. For RTX 3060 o
 
 >>>>>>> 51f813872a24a242207d0a7b3bff6dcea0f8e87b
 # OpenAI_farmbot_Alphagarden
+# OpenAI_farmbot_Alphagarden
